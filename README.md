@@ -1,3 +1,7 @@
+# Note from the Developer (ME)
+
+I put a lot of work into these projects, please donate: CashApp / Venmo: LynxGeekNYC
+
 # Centaurus Merchant Services CRM - Soon to be openly released
 
 A PHP and Bootstrap based merchant services intake and CRM system for collecting low-rate quote requests, reviewing merchant onboarding data, organizing supporting documents, and preparing approved files for contract generation and underwriting.
